@@ -90,6 +90,8 @@ gcc airport.c -o airport
 </ul>
 </li>
 </ol>
+<img src="https://github.com/Sarvaswa-Mohata/OS-Assignment-2/assets/99800509/516aab82-2ecb-41c0-9334-01d66deca2b7"></img>
+
 <h2 id="license">License</h2>
 <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 <h2 id="conclusion">Conclusion</h2>
